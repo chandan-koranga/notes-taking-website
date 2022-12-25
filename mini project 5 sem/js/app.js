@@ -1,3 +1,4 @@
+ 
 console.log("Welcome to notes app. This is app.js");
 showNotes();
 
@@ -86,4 +87,4 @@ Further Features:
 2. Mark a note as Important
 3. Separate notes by user
 4. Sync and host to web server 
-*/
+*/ 
