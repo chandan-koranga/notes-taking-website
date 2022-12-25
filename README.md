@@ -1,2 +1,4 @@
 # notes-taking-website
-using js,bootstrap
+using js,bootstrapNotes 
+https://notes-taking-webapp.netlify.app/
+
